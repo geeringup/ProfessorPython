@@ -1,6 +1,6 @@
 guess =input("What is my favorite dish? ")
   
 if guess == "pizza":
-     print(“yes!”)  
+     print("yes!")  
 else:
-   print(“ew no”)
+   print("ew no")
